@@ -11,8 +11,8 @@ yarn-error.log*
 pids
 *.pid
 *.seed
-*.pid.loc
-build/k
+*.pid.lock
+build/
 
 # Dependency directories
 node_modules/
